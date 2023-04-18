@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/useReducer-Hooks/static/css/main.a099a9bb.css",
-    "main.js": "/useReducer-Hooks/static/js/main.a4a46c01.js",
+    "main.js": "/useReducer-Hooks/static/js/main.393cc9a6.js",
     "index.html": "/useReducer-Hooks/index.html",
     "main.a099a9bb.css.map": "/useReducer-Hooks/static/css/main.a099a9bb.css.map",
-    "main.a4a46c01.js.map": "/useReducer-Hooks/static/js/main.a4a46c01.js.map"
+    "main.393cc9a6.js.map": "/useReducer-Hooks/static/js/main.393cc9a6.js.map"
   },
   "entrypoints": [
     "static/css/main.a099a9bb.css",
-    "static/js/main.a4a46c01.js"
+    "static/js/main.393cc9a6.js"
   ]
 }
